@@ -1,0 +1,23 @@
+
+body
+{
+background-color: lightskyblue;
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    margin-top: -21px;
+    margin-left: 25px;
+    font-family: cursive;
+    color: purple;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right,wheat,lightpink,wheat,lightpink,lightskyblue);
+   }
+
+button{
+    border-radius: 10px;
+    background-image: linear-gradient(purple,palevioletred,papayawhip,whitesmoke,wheat,purple);
+    font-family: cursive; 
+    font-weight: bolder;
+}
